@@ -1,6 +1,6 @@
 # Route53ツール
 
-* [aws cli](https://aws.amazon.com/jp/cli/)
+* [AWS コマンドラインインターフェイス](https://aws.amazon.com/jp/cli/)
 * [AWS CLI Command Reference route53](http://docs.aws.amazon.com/cli/latest/reference/route53/)
 
 Perl, JSON::XS, IO::All が必要
